@@ -393,6 +393,7 @@
     background-color: aliceblue;
     text-align: center;
     border-radius: 50%;
+    overflow: scroll;
     /* width:fit-content; */
     /* align-items: center;
     justify-content: center; */
