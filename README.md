@@ -4,7 +4,7 @@ Technology used:
 React.js for frontend,
 firebase for backend, 
 
-# Deployed site- https://6605ac9f7bbc710b9706c998--moonlit-peony-ba9214.netlify.app/
+# Deployed site- [https://6605ac9f7bbc710b9706c998--moonlit-peony-ba9214.netlify.app/](https://moonlit-peony-ba9214.netlify.app/)
 
 Project features and descriptions:
 1  User can book a cab from any location of Nodes A, B, C, D, E from the map.
