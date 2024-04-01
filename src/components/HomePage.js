@@ -412,8 +412,10 @@ export default function HomePage() {
       </div>
       }
       {routee && <div className='inputDiv' style={backgrounRoute.header} >
-        <p className='rheading'>Available routes</p>
-        <img src={routeImage} className="rImage" alt="rImage" />
+        <p className='rheading' >Available routes</p>
+        <div style={{ overflow: "scroll" }}>
+          <img src={routeImage} className="rImage" alt="rImage" />
+        </div>
         <button className="button-31" onClick={handleRoute}>Back</button>
       </div>}
 
