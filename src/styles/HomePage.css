@@ -81,6 +81,7 @@
 .checkout p {
     font-size: large;
     font-weight: 600;
+    /* overflow: scroll; */
 }
 
 .in1 p {

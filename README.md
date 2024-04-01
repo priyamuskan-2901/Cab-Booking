@@ -4,6 +4,7 @@ Technology used:
 React.js for frontend,
 firebase for backend, 
 
+<<<<<<< HEAD
 Project features and descriptions:
 1  User can book a cab from any location of Nodes A, B, C, D, E from the map.
 
@@ -15,6 +16,21 @@ Project features and descriptions:
 
 5  shortest distance between the Node pickup and drop is calculated using the Dijkstra's algorithm
 
+=======
+# Deployed site- https://6605ac9f7bbc710b9706c998--moonlit-peony-ba9214.netlify.app/
+
+Project features and descriptions:
+1  User can book a cab from any location of Nodes A, B, C, D, E from the map.
+
+2  The application let you find the shortest route possible between the pickup location to drop location 
+
+3  responsive design.
+
+4  The site gives you the summary of the trip with estimated cost for the trip inclusive of taxes. 
+
+5  shortest distance between the Node pickup and drop is calculated using the Dijkstra's algorithm
+
+>>>>>>> fabf64ae47f37547a5ad32fe2036e4ab10c6f1f5
 5  To calculate the cost for the trip, the fare of the cab per minute is multiplied with the shortest time it will take
    to reach from pickup to destination.
 
@@ -44,4 +60,8 @@ Project features and descriptions:
 
 
 
+<<<<<<< HEAD
    # Cab-Booking-System-Full-Stack Website
+=======
+   # Cab-Booking-System-Full-Stack Website
+>>>>>>> fabf64ae47f37547a5ad32fe2036e4ab10c6f1f5
