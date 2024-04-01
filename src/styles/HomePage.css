@@ -81,7 +81,6 @@
 .checkout p {
     font-size: large;
     font-weight: 600;
-    /* overflow: scroll; */
 }
 
 .in1 p {
@@ -159,21 +158,16 @@
     .checkout {
         display: flex;
         margin-bottom: 5px;
-        /* width: fit-content; */
-        /* block-size: fit-content; */
-        /* overflow: scroll; */
-    }
+        }
 
     .p1 {
         margin-right: auto;
-        /* overflow: scroll; */
-    }
+        }
 
     .checkout p {
         font-size: large;
         font-weight: 600;
-        /* overflow: scroll; */
-    }
+        }
 
     .in1 p {
         font-size: large;
@@ -197,7 +191,6 @@
         padding-right: 1vw;
         padding-top: 0.5vh;
         padding-bottom: 0.5vh;
-        /* border-radius: 10px; */
     }
 
     .linee {
@@ -214,12 +207,10 @@
         background-color: linear-gradient(to right, rgb(253, 184, 184), rgb(255, 255, 233));
         width: 30vw;
         height: fit-content;
-        /* border-radius: 10px; */
 
         padding: 5vh;
         padding-top: 0;
         padding-bottom: 1vh;
-        /* display: flex; */
         align-items: baseline;
         justify-content: center;
         box-shadow: 1px 2px 9px black;
@@ -244,10 +235,8 @@
     }
 
     .book {
-        /* border-radius: 10px; */
         align-items: baseline;
         justify-content: center;
-        /* margin-right: auto; */
         position: relative;
         box-shadow: 1px 2px 9px black;
         padding: 10px;
@@ -267,12 +256,9 @@
         background-color: rgb(239, 239, 133);
         width: 60vw;
         height: fit-content;
-        /* border-radius: 10px; */
 
         padding: 5vh;
         padding-top: 0;
-        /* padding-bottom: 1vh; */
-        /* display: flex; */
         align-items: baseline;
         justify-content: center;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;        margin-top: 10vh;
@@ -302,13 +288,10 @@
         padding-right: 1vw;
         padding-top: 0vh;
         padding-bottom: 0vh;
-        /* border-radius: 10px; */
     }
 
     .in1 select option p {
-        /* font-size: 2vh; */
         padding: 0;
-        /* border-radius: 10px; */
     }
 }
 
@@ -318,15 +301,10 @@
     font-weight: 900;
     background-color: rgb(239, 239, 133);
     text-align: center;
-    /* border-radius: 50%; */
     overflow: scroll;
-    /* width:fit-content; */
-    /* align-items: center;
-    justify-content: center; */
 }
 
 .rbutt {
-    /* border-radius: 10px; */
     padding: 10px;
     position: absolute;
     box-shadow: 1px 1px 5px black;
@@ -349,5 +327,4 @@
     padding: 10px;
     padding-right: 3px;
     margin-left: 10px;
-    /* border-radius: 10px; */
 }
