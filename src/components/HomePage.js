@@ -60,9 +60,13 @@ export default function HomePage() {
       Port: 2525,
       To: `${email}`,
       From: "muskanpriya72@gmail.com",
-      Subject: "Ride Confirmed ! We are very excited to ride with you !",
-      Body: `Thankyou for using Cabook. Trip confirmed .\nEstimated time taken for the trip: ${distance}minutes.\nAmount to be paid: $ ${total + taxes}.\n Happy journey !`
-    }
+      Subject: "Ride Confirmed !",
+      Body: `Thank you 
+      Trip confirmed.
+      Estimated time taken for the trip: ${distance} minutes.
+      Amount to be paid: Rs ${total + taxes}.
+      Happy journey!`
+      }
     if (window.Email) {
       window.Email.send(config).then(() => alert("Confirmation email sent (Check spam folder if not in inbox)"));
     }
@@ -218,8 +222,8 @@ export default function HomePage() {
       Port: 2525,
       To: `${email}`,
       From: "muskanpriya72@gmail.com",
-      Subject: "Ride Confirmed ! We are very excited to ride with you !",
-      Body: `Thankyou for using Cabook. Trip confirmed .\nEstimated time taken for the trip: ${distance}minutes.\nAmount to be paid: $ ${total + taxes}.\n Happy journey !`
+      Subject: "Ride Confirmed !",
+      Body: `Thankyou.\n Trip confirmed .\nEstimated time taken for the trip: ${distance}minutes.\nAmount to be paid: $ ${total + taxes}.\n Happy journey !`
     }
     if (window.Email) {
       window.Email.send(config).then(() => alert("Confirmation email sent (Check spam folder if not in inbox)"));

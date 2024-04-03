@@ -3,8 +3,9 @@
     align-items: baseline;
     justify-content: center;
     margin-top: 0;
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(55,56,67,1) 0%, rgba(220,229,163,1) 53%, rgba(66,82,85,1) 100%);}
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(55, 56, 67, 1) 0%, rgba(220, 229, 163, 1) 53%, rgba(66, 82, 85, 1) 100%);
+}
 
 .button-31 {
     background-color: #222;
@@ -47,14 +48,13 @@
     padding-top: 1vh;
     align-items: baseline;
     justify-content: center;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
     margin-top: 20vh;
     position: absolute;
 }
 
 .buttons {
     display: flex;
-
 }
 
 .heading {
@@ -133,7 +133,8 @@
         padding-top: 0;
         align-items: baseline;
         justify-content: center;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;        margin-top: 20vh;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+        margin-top: 20vh;
 
     }
 
@@ -158,16 +159,16 @@
     .checkout {
         display: flex;
         margin-bottom: 5px;
-        }
+    }
 
     .p1 {
         margin-right: auto;
-        }
+    }
 
     .checkout p {
         font-size: large;
         font-weight: 600;
-        }
+    }
 
     .in1 p {
         font-size: large;
@@ -261,7 +262,8 @@
         padding-top: 0;
         align-items: baseline;
         justify-content: center;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;        margin-top: 10vh;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+        margin-top: 10vh;
 
     }
 
