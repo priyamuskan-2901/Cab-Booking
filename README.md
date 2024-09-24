@@ -1,4 +1,4 @@
-# Assignment Submission for Scaler SDE Intern Full-Stack Assignment - Cab System
+# Cab Booking System
 
 Technology used:
 React.js for frontend,
