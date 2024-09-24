@@ -25,10 +25,8 @@ Project features and descriptions:
 7  The value of the cab set in the options array to be 0 to filter it out while booking another cab and show it as booked.
 
 8  The cabs that are already chosen by the user are shown as booked and so not available to choose from.
-9  The user can also delete their booking by clicking on the delete button with the bookings.Then the 
-   cab will be 
-   again available to be booked.
-10 The user can also book another cab from the other four options if one is already booked by them.\
+9  The user can also delete their booking by clicking on the delete button with the bookings.Then the cab will be again available to be booked.
+10 The user can also book another cab from the other four options if one is already booked by them.
 
 
 
